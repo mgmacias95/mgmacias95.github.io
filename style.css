@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    text-align: center;
+    padding-top: 55px;
+}
+
+header, section, footer, aside, nav, article, figure, figcaption, hgroup {
+    display: block;
+}
+
+#logo {
+    width: 20%;
+}
+
+strong {
+    color: #DF0101;
+}
+
+img {
+    padding: 1px;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+}
+
+body h1 {
+    font-size: 62px;
+    color: #DF0101;
+}
+
+body h2 {
+    font-size: 28px;
+    color: #DF0101;
+}
+
+body h4 {
+    font-size: 23px;
+    color:#424242;
+    text-align: left;
+}
+
+body p {
+    font-size: 18px;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body a:link, a:visited {
+    color: #000000;
+}
+
+body a:hover, a:active {
+    color: #DF0101;
+    text-decoration: none;
+}
+
+#social a {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#menu1 a {
+    text-decoration: none;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 23px;
+}
+
+footer {
+    display: inline-block;
+    padding-top: 50px;
+}
+
+#Copyright {
+    text-align: left;
+    float:left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#social {
+    text-align: right;
+    font-size: 20px;
+    float:right;
+    margin-right: 10px;
+}
+
+#progreso {
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#freewall div {
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+#contenedor {
+    overflow: auto;
+    width: 100%;
+}
+
+.oculto {
+    display: none
+}
+
+#pagamigas .list-group {
+    width: 60%;
+    margin: auto;
+    padding-top: 50px;
+    font-size: 19px;
+}
+
+#pagamigas .list-group-item {
+    color: #000;
+}
+
+#pagamigas .list-group-item:hover {
+    background: #F6CECE;
+    font-weight: bold;
+}
+
+#pagproyectos img {
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    width: 80%;
+    text-align: center;
+    padding-left: 20%;
+}
+
+body h3 {
+    font-size: 30px;
+}
+
+#pagproyectos .col-md-4 {
+    background-size: cover;
+    background-position: 50% 50%;
+}
