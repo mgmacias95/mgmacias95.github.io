@@ -114,7 +114,7 @@
             $('a#portfoliolink').click(function () {
                 if (numberOfClicks < 1) {
                     var temp = "<div class='brick' style='width:{width}px;'><img src='./fotos/{index}.jpg' width='100%'></div>";
-                    var w = 1, h = 1, html = '', limitItem = 44;
+                    var w = 1, h = 1, html = '', limitItem = 45;
                     for (var i = 0; i < limitItem; ++i) {
                         w = 1 + 3 * Math.random() << 0;
                         html += temp.replace(/\{width\}/g, w*150).replace("{index}", i + 1);
