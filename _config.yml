@@ -24,7 +24,7 @@ github_username:  mgmacias95
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: tema-pagina
 gems:
   - jekyll-feed
 exclude:
