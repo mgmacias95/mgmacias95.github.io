@@ -14,6 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Made by Martha with Love
+authors: 
+  marta:
+    name: Marta Gómez Macías
+    
 email: mgmacias95@correo.ugr.es
 description: > # this means to ignore newlines until "baseurl:"
   Mi página personal.
