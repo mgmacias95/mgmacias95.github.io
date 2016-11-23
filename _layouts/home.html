@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="home">
+    {{ content }}
+
+    <ul>
+        {% for post in site.posts %}
+            <li class="col s12">
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
