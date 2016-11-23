@@ -17,3 +17,7 @@ flex: 1 0 auto;
 .page-footer a:hover {
     color: #64b5f6 !important;
 }
+
+.home {
+    text-align: center;
+}
