@@ -1,0 +1,19 @@
+<nav>
+<div class="nav-wrapper blue lighten-2">
+  <a href="{{ site.url }}" class="brand-logo">{{ site.title }}</a>
+  <ul id="nav-mobile" class="right hide-on-med-and-down">
+    <!-- <li><a href="#">Sobre mí</a></li>
+    <li><a href="#">Fotografía</a></li>
+    <li><a href="#">Proyectos</a></li>
+    <li><a href="#">Páginas amigas</a></li> -->
+
+    {% for sitePage in site.pages %}
+    {% if sitePage.title %}
+
+    <li><a href="{{sitePage.url | prepend: site.baseurl }}">{{sitePage.title}}</a></li>
+    {% endif %}
+    {% endfor %}
+
+  </ul>
+</div>
+</nav>
