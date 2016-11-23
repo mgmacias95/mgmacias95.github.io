@@ -11,21 +11,33 @@
 
           {% if site.github_username %}
           <li>
-          <a class="grey-text text-lighten-3 social" href="https://github.com/{{ site.github_username }}">{% icon fa-github fa-2x %} {{ site.github_username }}</i></a>
+          <a class="grey-text text-lighten-3 " href="https://github.com/{{ site.github_username }}">{% icon fa-github fa-lg %} {{ site.github_username }}</i></a>
           </li>
           {% endif %}
 
-          <!-- {% if site.twitter_username %}
+          {% if site.twitter_username %}
           <li>
-            {% include icon-twitter.html username=site.twitter_username %}
+            <a class="grey-text text-lighten-3 " href="https://twitter.com/{{ site.twitter_username }}">{% icon fa-twitter fa-lg %} {{ site.twitter_username }}</i></a>
           </li>
           {% endif %}
+
           {% if site.facebook_username %}
           <li>
-            <a href="https://www.facebook.com/{{site.facebook_username}}/"><i class="fa fa-facebook"></i> {{ site.facebook_username }}</a>
+            <a class="grey-text text-lighten-3 " href="https://facebook.com/{{ site.facebook_username }}">{% icon fa-facebook fa-lg %} {{ site.facebook_username }}</i></a>
           </li>
-          {% endif %} -->
+          {% endif %}
 
+          {% if site.500px_username %}
+          <li>
+            <a class="grey-text text-lighten-3 " href="https://500px.com/{{ site.500px_username }}">{% icon fa-500px fa-lg %} {{ site.500px_username }}</i></a>
+          </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li>
+            <a class="grey-text text-lighten-3 " href="https://instagram.com/{{ site.instagram_username }}">{% icon fa-instagram fa-lg %} {{ site.instagram_username }}</i></a>
+          </li>
+          {% endif %}
         </ul>
       </div>
     </div>

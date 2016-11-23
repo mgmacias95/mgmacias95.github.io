@@ -13,3 +13,7 @@ flex: 1 0 auto;
     margin-left: 50px;
     font-family: 'Rochester', cursive;
 }
+
+.page-footer a:hover {
+    color: #64b5f6 !important;
+}
