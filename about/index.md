@@ -15,9 +15,11 @@ comments: false
 
 ## Habilidades
 
-* __Programación:__ Python, C, C++, OpenMP, R, Ruby, Java, Android, Haskell, OpenCV, LaTeX, Prolog, CLIPS, VoiceXML, Arduino.
+* __Programación:__ Python, C, C++, OpenMP, R, Ruby, Java, Android, Haskell, OpenCV, Scikit-learn, OpenGL, Numpy, Prolog, CLIPS, VoiceXML, Arduino.
 
 * __Web:__ Django, HTML, CSS, Javascript, jQuery, Bootstrap, Materialize.
+
+* __Otros:__ LaTeX.
 
 * __Idiomas:__ Español, Inglés.
 
@@ -68,3 +70,11 @@ comments: false
 * Participé en el _Google Hash Code 2017_ con un equipo de cuatro personas llamado _Rambus_.
 * Desarrollamos un algoritmo _Greedy_ en C++. Disponible en <a href="https://github.com/erseco/google_hashcode_2017" target="_blank">Github</a>.
 * Obtuvimos el puesto #1190.
+
+### Hacktoberfest 2016
+
+:-----------------|---------------:
+*Granada, España* | Octubre 2016
+
+* Contribuí a cinco repositorios en _Github_ durante el mes de Octubre de 2016.
+* Conseguí una camiseta y varias pegatinas.
