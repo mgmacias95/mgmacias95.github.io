@@ -20,7 +20,10 @@ project: true
 
 ## Capturas de Pantalla
 
-<figure class="half">
+<figure>
     <img src="/assets/images/plantilla-horarios/1.png">
-    <img src="/assets/images/plantilla-horarios/2.png">
 </figure>
+
+<figure>
+    <img src="/assets/images/plantilla-horarios/2.png">
+<figure>

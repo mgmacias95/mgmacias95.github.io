@@ -18,13 +18,18 @@ project: true
 
 ## Capturas de Pantalla
 
-<figure class="third">
+<figure>
     <img src="/assets/images/tweet-stat/1.png">
+</figure>
+<figure>
     <img src="/assets/images/tweet-stat/2.png">
+</figure>
+<figure>
     <img src="/assets/images/tweet-stat/3.png">
 </figure>
-
-<figure class="half">
+<figure>
     <img src="/assets/images/tweet-stat/4.png">
+</figure>
+<figure>
     <img src="/assets/images/tweet-stat/5.png">
 </figure>
