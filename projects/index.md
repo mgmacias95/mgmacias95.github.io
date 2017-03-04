@@ -1,6 +1,6 @@
 ---
 layout: project
-title: All Projects
-excerpt: "A List of Projects"
+title: Proyectos
+excerpt: "Mi lista de proyectos"
 comments: false
 ---
