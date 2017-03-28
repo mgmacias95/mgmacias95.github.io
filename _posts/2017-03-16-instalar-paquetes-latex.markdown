@@ -10,7 +10,7 @@ comments: false
 # Motivación
 Muchos nos hemos descargado alguna vez algún `.sty` de internet para poder hacer unos documentos LaTeX más completos y, al no saber cómo instalarlos, los hemos dejado en la misma carpeta que nuestro documento. Esto está  bien si sólo vamos a usar dicho paquete una vez, pero si nuestra intención es empezar a usarlo más veces debemos considerar _instalar_ el paquete en nuestro sistema.
 
-# Cómo se instalar un paquete .sty
+# Cómo instalar un paquete .sty
 En [Wikibooks](https://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages) nos explican cómo instalar paquetes. En mi caso, para instalar un `.sty` que he descargado de internet he tenido que seguir los siguientes pasos:
 
 1. Crear una carpeta con el mismo nombre que el paquete en `/usr/local/share/texmf` (en _ArchLinux_ es `/usr/share/texmf-dist/`):
