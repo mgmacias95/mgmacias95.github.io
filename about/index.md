@@ -62,19 +62,22 @@ comments: false
 * Organizadora de <a href="https://www.python-granada.es/" target="_blank">Python Granada</a>.
 * Organizamos talleres y charlas relacionadas con el lenguaje de programación _Python_.
 
+
+
 ### Hash Code 2017
 
-:-----------------|-------------------:
+:-----------------|----------------------:
 *Granada, España* | 23 de Febrero de 2017
 
 * Participé en el _Google Hash Code 2017_ con un equipo de cuatro personas llamado _Rambus_.
 * Desarrollamos un algoritmo _Greedy_ en C++. Disponible en <a href="https://github.com/erseco/google_hashcode_2017" target="_blank">Github</a>.
 * Obtuvimos el puesto #1190.
 
-### Hacktoberfest 2016
+### Hacktoberfest 2016/2017
 
-:-----------------|---------------:
-*Granada, España* | Octubre 2016
+:-----------------|---------------------------:
+*Granada, España* | Octubre 2016, Octubre 2017
 
-* Contribuí a cinco repositorios en _Github_ durante el mes de Octubre de 2016.
+* Contribuí a cinco repositorios en _Github_ durante los meses de Octubre de 2016 y 2017.
 * Conseguí una camiseta y varias pegatinas.
+* Seguiré participando cada año en la medida de lo posible.
